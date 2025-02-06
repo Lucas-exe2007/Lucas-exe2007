@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lucas-exe2007
-- 👀 I’m interested in Python
+- 👋 Hi, I’m @Pentist_h4xor
+- 👀 I’m interested in offensive python, electronig engineering and cybersecurity
 
 
 
